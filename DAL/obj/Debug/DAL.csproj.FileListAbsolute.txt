@@ -1,0 +1,21 @@
+E:\CSE-2.1\CarSImulator\DAL\bin\Debug\DAL.dll
+E:\CSE-2.1\CarSImulator\DAL\bin\Debug\DAL.pdb
+E:\CSE-2.1\CarSImulator\DAL\bin\Debug\Entity.dll
+E:\CSE-2.1\CarSImulator\DAL\bin\Debug\Entity.pdb
+E:\CSE-2.1\CarSImulator\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\CSE-2.1\CarSImulator\DAL\obj\Debug\DAL.dll
+E:\CSE-2.1\CarSImulator\DAL\obj\Debug\DAL.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\bin\Debug\DAL.dll
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\bin\Debug\DAL.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\bin\Debug\Entity.dll
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\bin\Debug\Entity.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\obj\Debug\DAL.dll
+D:\2_1\c#\New folder (5)\CarSImulator\DAL\obj\Debug\DAL.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\bin\Debug\DAL.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\bin\Debug\DAL.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\bin\Debug\Entity.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\bin\Debug\Entity.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\obj\Debug\DAL.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\DAL\obj\Debug\DAL.pdb

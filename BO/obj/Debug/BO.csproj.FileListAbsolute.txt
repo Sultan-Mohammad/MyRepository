@@ -1,0 +1,18 @@
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\BO.dll
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\BO.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\DAL.dll
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\Entity.dll
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\DAL.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\BO\bin\Debug\Entity.pdb
+D:\2_1\c#\New folder (5)\CarSImulator\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\2_1\c#\New folder (5)\CarSImulator\BO\obj\Debug\BO.dll
+D:\2_1\c#\New folder (5)\CarSImulator\BO\obj\Debug\BO.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\BO.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\BO.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\DAL.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\Entity.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\DAL.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\bin\Debug\Entity.pdb
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\obj\Debug\BO.dll
+C:\Users\Sultan\Desktop\CarSImulator\CarSImulator\BO\obj\Debug\BO.pdb
